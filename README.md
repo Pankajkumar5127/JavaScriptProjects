@@ -1,2 +1,2 @@
 # JavaScriptProjects
-Stone-Paper-Scissors Project using JS
+Stone-Paper-Scissors, Tic Tac Toe Game, Currency Converter Project using JS
